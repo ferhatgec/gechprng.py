@@ -3,8 +3,9 @@
 # Copyright (c) 2021 Ferhat Geçdoğan All Rights Reserved.
 # Distributed under the terms of the MIT License.
 #
-# gechprng - small & fast prng algorithm
+# gechprng[dot]py - small & fast prng algorithm
 #
+# github.com/ferhatgec/gechprng.py
 # github.com/ferhatgec/gechprng
 #
 
